@@ -1,6 +1,6 @@
 [submodule "fin_backend"]
-	path = fin_backend
+	path = backend
 	url = git@github.com:thebopshoobop/fin_backend.git
 [submodule "fin_frontend"]
-	path = fin_frontend
+	path = frontend
 	url = git@github.com:thebopshoobop/fin_frontend.git
